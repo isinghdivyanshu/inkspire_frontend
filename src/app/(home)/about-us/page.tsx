@@ -12,22 +12,8 @@ export default function AboutUs() {
 					Who are <span className="text-skin">we</span>?
 				</h2>
 				<p className="text-xl mb-5">
-					We are GDSC-VIT Vellore, a non-profit tech community where
-					developers, designers, and managers collaborate to bring
-					real-time projects to life. We believe in supporting student
-					tech communities and providing innovative minds a chance to
-					explore the opportunities that the tech-driven world has to
-					offer.
-				</p>
-				<p className="text-xl">
-					Visit us:&nbsp;&nbsp;
-					<Link
-						href={"https://www.dscvit.com/"}
-						target="_blank"
-						className="text-blue-500"
-					>
-						https://www.dscvit.com
-					</Link>
+					We are final year B.tech undergrads at VIT, Vellore studying
+					Computer Science and Engineering.
 				</p>
 			</section>
 			<section className="mb-20">
