@@ -1,6 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
-import Artium from "@/assets/Artium_logo.svg";
+// import Artium from "@/assets/Artium_logo.svg";
 
 export const Logo = () => {
 	return (
