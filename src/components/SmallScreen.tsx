@@ -10,10 +10,10 @@ export default function SmallScreen() {
 				<article className="absolute bottom-0 flex flex-col gap-36 h-4/5 w-full items-center pt-48 px-5">
 					<section className="text-skin text-xl flex flex-col items-center gap-4">
 						<p className="mb-5">
-							Artium is best experienced on the app
+							Inkspire is best experienced on the app
 						</p>
 						<Link
-							href="https://github.com/GDGVIT/artium-app/releases"
+							href=""
 							target="_blank"
 							className="px-6 py-3 text-white bg-soil hover:bg-soil/80 rounded-lg transition-colors"
 						>
@@ -41,10 +41,10 @@ export default function SmallScreen() {
 				<article className="flex gap-10 items-center h-full">
 					<section className="w-1/2 h-1/2 text-3xl text-skin flex flex-col gap-6">
 						<p className="mb-8">
-							Artium is best experienced on the app
+							Inkspire is best experienced on the app
 						</p>
 						<Link
-							href="https://github.com/GDGVIT/artium-app/releases"
+							href=""
 							target="_blank"
 							className="px-8 py-4 text-white bg-soil hover:bg-soil/80 rounded-lg transition-colors text-xl w-fit"
 						>
